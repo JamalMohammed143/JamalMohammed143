@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JamalMohammed143
+- 👋 Hi, I’m Jamal Mohammed
 - 👀 I’m interested in Website and UI Development
 - 🌱 I’m currently learning ReactJs Hooks
 - 💞️ I’m looking to collaborate on UI part
